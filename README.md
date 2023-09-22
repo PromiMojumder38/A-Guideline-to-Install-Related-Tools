@@ -20,6 +20,8 @@
 
 * [Visual Studio Code](https://code.visualstudio.com/download)
 
+* [NPM - Node Packet Manager](https://nodejs.org/en/download)
+
 ### Python
 * [PyCharm Community Edition ](https://www.jetbrains.com/pycharm/download/?section=windows)
 
